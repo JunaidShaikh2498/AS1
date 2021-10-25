@@ -1,0 +1,22 @@
+ h1{
+     color: red;
+ }
+ .headings{
+     font-style: italic;
+     color: rgb(255, 115, 0);
+ }
+ .lists1{
+    color: rgb(153, 41, 22);
+ }
+ .lists2{
+    color: rgb(153, 41, 22);
+    letter-spacing: 3px;
+ }
+ .anchor{
+     background-color: gold;
+     text-decoration: none;
+     color: rgb(148, 72, 1);
+ }
+ p{
+    color: rgb(148, 72, 1);
+ }
